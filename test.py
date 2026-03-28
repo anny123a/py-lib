@@ -1,7 +1,9 @@
-from Anny_lib import add
-import Anny_lib
+from anny_lib import add
+import anny_lib
 
-print(Anny_lib.add(2, 3))
+print(anny_lib.add(2, 3))
 
 
 print("hell2")
+
+  
